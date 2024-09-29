@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Self balancing Binary search tree
 public class AVLTrees {
 
     private static class Node {
